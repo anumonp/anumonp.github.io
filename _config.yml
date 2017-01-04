@@ -1,0 +1,6 @@
+url: https://www.anumon.com   # with the https protocol
+enforce_ssl: www.anumon.com   # without any protocol
+
+# For example, my configuration is this:
+url: https://anumon.com
+enforce_ssl: anumon.com
